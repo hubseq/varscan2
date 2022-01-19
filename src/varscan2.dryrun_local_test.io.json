@@ -1,0 +1,1 @@
+{"input": ["/Users/jerry/icloud/Documents/ngspipelines/varscan2/test/dnaseq_test.mpileup.pileup"], "output": ["/Users/jerry/icloud/Documents/ngspipelines/varscan2/testout/dnaseq_test.varscan2.vcf"], "alternate_inputs": [], "alternate_outputs": [], "program_arguments": "", "sample_id": "varscan2_test", "dryrun": ""}
